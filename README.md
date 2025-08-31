@@ -1,32 +1,30 @@
-<h1 align="center">Hi 👋, I'm Vianel TIAGUE NTIECHE</h1>
-<h3 align="center">Aspiring Tech Entrepreneur – currently gathering hands-on experience across tech, business, and remote work.</h3>
+# 💫 About Me:
+Hi, I’m Vianel!  <br><br>- 🎓 Bachelor’s in Information Systems (Year 2)  <br>- 🚀 Aspiring Tech Entrepreneur – currently gathering as much experience as possible to build impactful digital solutions.  <br>- 🌍 Based in Africa, passionate about solving real-world problems through technology and entrepreneurship.  <br>- 💡 Interests: EdTech, Business Apps, Digital Transformation, and Remote Work Platforms.  <br>- 🛠️ Skills: HTML, Python (beginner to Intermediate), Project Management, and Remote Collaboration.  <br>- 📚 Currently learning: Web Development, SaaS models, and startup growth strategies.  <br>- 🎯 Goal: To launch scalable tech products that create opportunities for people in Africa and beyond.  <br><br>📌 I believe in learning by doing — every project, job, and experience is a step toward becoming a stronger founder.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntiechevianel&label=Profile%20views&color=0e75b6&style=flat" alt="ntiechevianel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntiechevianel" alt="ntiechevianel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tiaguevianel" target="blank"><img src="https://img.shields.io/twitter/follow/tiaguevianel?logo=twitter&style=for-the-badge" alt="tiaguevianel" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Javascript, C, C++, and Git**
-
-- 📝 I regularly write articles on [http://thzrealvianek.liveblog365.com/?i=1](http://thzrealvianek.liveblog365.com/?i=1)
-
-- 📫 How to reach me **tiaguentiechevianel@gmail.com**
-
-- ⚡ Fun fact **I'm nice and funny to speak with, Sometimes Introverted**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tiaguevianel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiaguevianel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vianel tiague" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vianel tiague" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.linkedin.com/in/vianel-tiague-ntieche-b061aa333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/vianel-tiague-ntieche-b061aa333/" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/Man and robot with computers sitting together in workplace.gif" width="300" height="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vianel TIAGUE NTIECHE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TiagueVianel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiaguentiechevianel@gmail.com) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntiechevianel&show_icons=true&locale=en&layout=compact" alt="ntiechevianel" /></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ntiechevianel&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ntiechevianel&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntiechevianel&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntiechevianel&show_icons=true&locale=en" alt="ntiechevianel" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ntiechevianel&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntiechevianel&" alt="ntiechevianel" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ntiechevianel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ntiechevianel&icon=2&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
