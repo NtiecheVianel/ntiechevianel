@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi, I’m Vianel!  <br><br>- 🎓 Bachelor’s in Information Systems (Year 2)  <br>- 🚀 Aspiring Tech Entrepreneur – currently gathering as much experience as possible to build impactful digital solutions.  <br>- 🌍 Based in Africa, passionate about solving real-world problems through technology and entrepreneurship.  <br>- 💡 Interests: EdTech, Business Apps, Digital Transformation, and Remote Work Platforms.  <br>- 🛠️ Skills: HTML, Python (beginner to Intermediate), Project Management, and Remote Collaboration.  <br>- 📚 Currently learning: Web Development, SaaS models, and startup growth strategies.  <br>- 🎯 Goal: To launch scalable tech products that create opportunities for people in Africa and beyond.  <br><br>📌 I believe in learning by doing — every project, job, and experience is a step toward becoming a stronger founder.  
 
-<p align="center">
-  <img src="assets/Man and robot with computers sitting together in workplace.gif" width="300" height="300" />
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vianel TIAGUE NTIECHE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TiagueVianel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiaguentiechevianel@gmail.com) 
